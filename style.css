@@ -90,3 +90,13 @@ body {
     transform: translateX(0);
   }
 }
+
+.bottom-bar {
+  border-color: #f9f9f9;
+  size: 50px;
+  border: 0;
+}
+
+#logo {
+  color: red;
+}
